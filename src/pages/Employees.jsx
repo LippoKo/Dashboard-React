@@ -1,9 +1,7 @@
 import React from 'react'
 
-const Emploeeys = () => {
-  return (
-    <div>Emploeeys</div>
-  )
+const Employees = () => {
+  return <div>Employees</div>
 }
 
-export default Emploeeys
+export default Employees
